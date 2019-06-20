@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fade In Fade Out with Progress Bar</string>
+    <string name="stop">stop</string>
+    <string name="todo">todo</string>
+</resources>

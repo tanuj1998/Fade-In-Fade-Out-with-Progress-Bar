@@ -1,4 +1,4 @@
-# Fade-In-Fade-Out-with-Progress-Bar
+# Fade-In-Fade-Out with Progress Bar
 
 # Usage
 1. Download the zip folder and unzip all the files.

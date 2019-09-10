@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         progressBar = findViewById(R.id.progressBar);
         imageView = findViewById(R.id.imageView);
 
-
         Animation fadeIn = new AlphaAnimation((float) 0.3, (float) 1.0);
 
         fadeIn.setDuration(1000);
